@@ -8,3 +8,4 @@ with less than 300 files. Do not use this maliciously or without explicit permis
 That means no crashes. That's right. Looking at you over there. 
 
 If you fill up your PC with too many files, I am not liable as the code has been modified.
+The placeholder will be removed after first run.
